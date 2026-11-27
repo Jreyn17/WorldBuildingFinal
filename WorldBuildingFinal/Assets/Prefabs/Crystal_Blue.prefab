@@ -54,7 +54,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 13851c70a7a3d9d4fa10198cf7f76bfd, type: 2}
     - target: {fileID: 919132149155446097, guid: 7636c2b809819a84990a82efb771f5b7, type: 3}
       propertyPath: m_Name
-      value: Crystal
+      value: Crystal_Blue
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -83,7 +83,7 @@ Light:
   serializedVersion: 12
   m_Type: 2
   m_Color: {r: 0.680952, g: 0.3803922, b: 1, a: 1}
-  m_Intensity: 4
+  m_Intensity: 6
   m_Range: 2.2
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
