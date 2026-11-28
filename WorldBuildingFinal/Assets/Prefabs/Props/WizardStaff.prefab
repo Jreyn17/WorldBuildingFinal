@@ -16,7 +16,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2232548872708023795
 Transform:
@@ -143,7 +143,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2967019050378660686
 Transform:
@@ -310,6 +310,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: WizardStaff
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e1e36776c717b624b91da0ad4046ed81, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164078558771037576, guid: e1e36776c717b624b91da0ad4046ed81, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -378,6 +386,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e9ce225e4895a5c49a1f0117882d51f0, type: 3}
       propertyPath: m_Name
       value: StaffCrystal
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e9ce225e4895a5c49a1f0117882d51f0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164078558771037576, guid: e9ce225e4895a5c49a1f0117882d51f0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

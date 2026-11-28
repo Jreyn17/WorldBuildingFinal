@@ -48,6 +48,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 4e6efe4e4a0b17c44b558f0e723cbc8d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a4046e58f04a4524b87f3523b51e706a, type: 2}
     - target: {fileID: 919132149155446097, guid: 4e6efe4e4a0b17c44b558f0e723cbc8d, type: 3}
       propertyPath: m_Name
       value: Flask_Holder
@@ -59,6 +63,18 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4e6efe4e4a0b17c44b558f0e723cbc8d, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 4e6efe4e4a0b17c44b558f0e723cbc8d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.23692203
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 4e6efe4e4a0b17c44b558f0e723cbc8d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.070298515
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 4e6efe4e4a0b17c44b558f0e723cbc8d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.056750312
       objectReference: {fileID: 0}
     - target: {fileID: 8164078558771037576, guid: 4e6efe4e4a0b17c44b558f0e723cbc8d, type: 3}
       propertyPath: m_Layer
